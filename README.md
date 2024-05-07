@@ -1,0 +1,2 @@
+# DEDSEC-SHELL
+🚪dedsec shell
