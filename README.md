@@ -25,7 +25,7 @@ ______________
 
 | Name              | Default                | Hash Type                       |
 | ------------- |:----------------------:| -------------------------------:|
-| Password      | __AwikWokdjbjwo2928392989992__           | (__md5 hash__)  |
+| Password      | __AwikWokdjbjwo2928392989992__           | (__md5 hash only__)  |
  ______________
 
 
