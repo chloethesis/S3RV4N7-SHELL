@@ -15,6 +15,7 @@
 
 - [x] **php 8.x**
 - [x] **new design from me**
+- [x] **no logger**
 - [x] **login is at the top right**
 - [x] **login displays 404 Not Found**
 - [x] **etc...**
