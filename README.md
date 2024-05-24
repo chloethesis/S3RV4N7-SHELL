@@ -8,7 +8,7 @@
 
 
 
-## 🚀About Feature & Display
+### 🚀About Feature & Display
 
 - [x] **php 8.x**
 - [x] **new design from me**
@@ -27,7 +27,7 @@ ______________
 
 
 
-## 🛅 Preview
+### 🛅 Preview
 
 visit <a href="https://chloethesis.github.io/preview">this page</a> to view
 
