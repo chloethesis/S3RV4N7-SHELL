@@ -1,6 +1,8 @@
 <h1 align="center">
     <samp>
+        <b>
     $ S3RV4N7 SHELL $
+        </b>
     </samp>
   </h1>
 
