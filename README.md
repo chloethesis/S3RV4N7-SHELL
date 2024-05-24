@@ -6,7 +6,7 @@
 
 
 
-## About Display
+## About Feature & Display
 
 - [x] **php 8.x**
 - [x] **new design from me**
@@ -16,13 +16,23 @@
 
 
 
-
 ______________
 
 |               | Default                | Hash Type                       |
 | ------------- |:----------------------:| -------------------------------:|
 | Password      | __ghost287__           | (__md5 hash__)  |
  ______________
+
+
+
+## Preview
+
+visit <a href="https://chloethesis.github.io/preview">This page</a> to view
+
+<br>
+
+
+
 
 > [!NOTE]  
 > Don't edit or rename it, it will cause the file function to be damaged and inaccessible.
