@@ -1,6 +1,6 @@
 <h1 align="center">
     <samp>
-    — S3RV4N7 SHELL —
+    $ S3RV4N7 SHELL $
     </samp>
   </h1>
 
