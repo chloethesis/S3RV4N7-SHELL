@@ -4,7 +4,6 @@
     </samp>
   </h1>
 
-______________
 
 
 ## About Display
