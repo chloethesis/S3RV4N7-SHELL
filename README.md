@@ -24,5 +24,8 @@ ______________
 | Password      | __ghost287__           | (__md5 hash__)  |
  ______________
 
+> [!NOTE]  
+> Don't edit or rename it, it will cause the file function to be damaged and inaccessible.
+
 
  
