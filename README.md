@@ -27,7 +27,7 @@ ______________
 
 ## Preview
 
-visit <a href="https://chloethesis.github.io/preview">This page</a> to view
+visit <a href="https://chloethesis.github.io/preview">this page</a> to view
 
 <br>
 
