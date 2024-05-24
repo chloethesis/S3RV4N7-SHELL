@@ -10,9 +10,9 @@
 
 - [x] **php 8.x**
 - [x] **new design from me**
-- [x] **Login is at the top right**
-- [x] **Login displays 404 Not Found**
-- [x] **Etc...**
+- [x] **login is at the top right**
+- [x] **login displays 404 Not Found**
+- [x] **etc...**
 
 
 
